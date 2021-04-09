@@ -1,0 +1,33 @@
+.titre {
+	color: #33FF33;
+	font-size: 50px;
+	text-align: center;
+	text-shadow:4px 4px 8px green;
+}
+
+.important {
+	color: #33FF33; 
+	font-size: 30px;
+	text-align: center;
+	text-shadow:4px 4px 8px green;
+}
+
+.info {
+	color: white;
+	font-size: 20px;
+	text-shadow:4px 4px 8px black;
+	text-align: center;
+}
+
+.message {
+	color: white;
+	font-size: 15px;
+	text-shadow:4px 4px 8px black;
+}
+
+.erreur {
+	color: #AA2233;
+	font-size: 20px;
+	text-shadow:4px 4px 8px red;
+	text-align: center;
+}
